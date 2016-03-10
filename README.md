@@ -10,17 +10,14 @@ YouReads - Öneri/İstek nedir?
 
 Nasıl işler?
 ------------
+Öneri / İstek Github Repo'sunun Issues sekmesine açılır.
 
-```flow
-st=>start: Öneri / İstek Github Repo'sunun Issues sekmesine açılır.
-e=>end
-op=>operation: Yöneticiler tarafından görüntülenip ilgilenecek kişiler ve etiketler eklenir
-op2=>operation: Öneri / İstek belirlenen kişiler tarafından kodlanır.
-op3=>operation: YouReads.net üzerine aktarılır
+Yöneticiler tarafından görüntülenip ilgilenecek kişiler ve etiketler eklenir
 
-st->op->op2->op3
+Öneri / İstek belirlenen kişiler tarafından kodlanır.
 
-```
+YouReads.net üzerine aktarılır
+
 
 > **Note:**
 >
