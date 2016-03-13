@@ -3,6 +3,8 @@
 
 YouReads - Öneri/İstek
 ======================
+
+[![Join the chat at https://gitter.im/YouReads/YouReads](https://badges.gitter.im/YouReads/YouReads.svg)](https://gitter.im/YouReads/YouReads?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 YouReads - Öneri/İstek nedir?
 -------------
 
